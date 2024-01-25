@@ -9,7 +9,7 @@ public class Demo {
 	{
 		System.out.println("Add method run");
 		System.out.println();
-		System.out.println();
+		
 	}
 	
 	 Demo()
